@@ -1,0 +1,502 @@
+.header1 {
+  background-image: url(./img/mobile/image-hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.div1 {
+  border: 1px solid white;
+  width: 280px;
+  margin-top: 160px;
+  padding: 20px;
+  margin-left: 20px;
+}
+.disappear {
+  display: none;
+}
+.img1 {
+  width: 280px;
+  /* display: flex;
+  justify-content: center; */
+  margin: 0% auto;
+  margin-bottom: 20px;
+}
+.div2 {
+  padding: 20px;
+  margin-top: 50px;
+}
+.ima {
+  width: 250px;
+}
+.div3 {
+  padding: 35px;
+}
+.divde {
+  background-image: url(./img/mobile/image-deep-earth.jpg);
+  background-size: cover;
+  height: 115px;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+.divde > h3 {
+  font-size: larger;
+}
+.divna {
+  background-image: url(./img/mobile/image-night-arcade.jpg);
+  background-size: cover;
+  height: 115px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+.divstv {
+  background-image: url(./img/mobile/image-soccer-team.jpg);
+  background-size: cover;
+  height: 115px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+.divtg {
+  background-image: url(./img/mobile/image-grid.jpg);
+  background-size: cover;
+  height: 115px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+.divfuav {
+  background-image: url(./img/mobile/image-from-above.jpg);
+  background-size: cover;
+  height: 115px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding-top: 0px;
+  padding-left: 20px;
+}
+.divpb {
+  background-image: url(./img/mobile/image-pocket-borealis.jpg);
+  background-size: cover;
+  height: 115px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-left: 20px;
+}
+.divc {
+  background-image: url(./img/mobile/image-curiosity.jpg);
+  background-size: cover;
+  height: 115px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-left: 20px;
+}
+.divmif {
+  background-image: url(./img/mobile/image-fisheye.jpg);
+  background-size: cover;
+  height: 115px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-left: 20px;
+}
+.btns {
+  text-align: center;
+  padding-bottom: 80px;
+}
+.a {
+  display: block;
+  justify-content: space-between;
+}
+.anchors {
+  /* margin-left: 130px; */
+  text-align: center;
+}
+.header2 {
+  text-align: center;
+}
+.para1 {
+  text-align: center;
+}
+.headerimt {
+  color: white;
+}
+.icon1 {
+  width: 20px;
+}
+.icon2 {
+  width: 20px;
+}
+.icon3 {
+  width: 25px;
+  border-radius: 200px;
+}
+.icon4 {
+  width: 20px;
+}
+.footie {
+  background-color: black;
+  padding: 5px;
+}
+.leadertext {
+  text-align: center;
+}
+.leaderdiv {
+  padding: 30px 30p;
+}
+.icondiv {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 0% auto;
+  /* margin-top: 30px;
+  margin-left: 100px; */
+  /* margin: 0% auto; */
+}
+.ptag {
+  text-align: center;
+  color: aqua;
+}
+
+@media (min-width: 380px) {
+  .div1 {
+    border: 1px solid white;
+    width: 340px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 280px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 30px;
+  }
+}
+
+@media (min-width: 400px) {
+  .div1 {
+    border: 1px solid white;
+    width: 370px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 280px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 50px;
+  }
+}
+@media (min-width: 420px) {
+  .div1 {
+    border: 1px solid white;
+    width: 390px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 280px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 70px;
+  }
+}
+@media (min-width: 440px) {
+  .div1 {
+    border: 1px solid white;
+    width: 420px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 280px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 90px;
+  }
+}
+@media (min-width: 460px) {
+  .div1 {
+    border: 1px solid white;
+    width: 440px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 280px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 110px;
+  }
+}
+@media (min-width: 480px) {
+  .div1 {
+    border: 1px solid white;
+    width: 450px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 280px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 130px;
+  }
+}
+@media (min-width: 600px) {
+  .div1 {
+    border: 1px solid white;
+    width: 500px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 280px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 150px;
+  }
+}
+@media (min-width: 650px) {
+  .div1 {
+    border: 1px solid white;
+    width: 500px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 300px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 160px;
+  }
+}
+@media (min-width: 700px) {
+  .div1 {
+    border: 1px solid white;
+    width: 500px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 300px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 160px;
+  }
+  .ete {
+    font-size: 20px;
+  }
+}
+@media (min-width: 700px) {
+  .div1 {
+    border: 1px solid white;
+    width: 500px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 300px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 160px;
+  }
+}
+@media (min-width: 700px) {
+  .div1 {
+    border: 1px solid white;
+    width: 500px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 300px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 160px;
+  }
+}
+@media (min-width: 820px) {
+  .div1 {
+    border: 1px solid white;
+    width: 540px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 380px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 190px;
+  }
+}
+@media (min-width: 890px) {
+  .div1 {
+    border: 1px solid white;
+    width: 560px;
+    margin-top: 160px;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  .img1 {
+    width: 400px;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 250px;
+  }
+}
+@media (min-width: 1000px) {
+  .img1 {
+    width: 600px;
+    position: relative;
+    right: 200px;
+    margin-bottom: 200px;
+  }
+  .movementdiv {
+    position: absolute;
+    top: 800px;
+    left: 570px;
+    width: 400px;
+    background-color: white;
+    padding: 60px;
+  }
+  .headerimt {
+    font-size: 50px;
+  }
+  .div1 {
+    height: 300px;
+  }
+  .div3 {
+    display: grid;
+    grid-template-rows: 1fr 1fr r;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 5px;
+    padding: 50px;
+  }
+  .divde {
+    background-image: url(./img/desktop/image-deep-earth.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 400px;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-left: 20px;
+  }
+
+  .divna {
+    background-image: url(./img/desktop/image-night-arcade.jpg);
+    background-size: contain;
+    height: 400px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-left: 20px;
+  }
+  .divstv {
+    background-image: url(./img/desktop/image-soccer-team.jpg);
+    background-size: contain;
+    height: 400px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-left: 20px;
+  }
+  .divtg {
+    background-image: url(./img/desktop/image-grid.jpg);
+    background-size: cover;
+    height: 380px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-left: 20px;
+  }
+  .divfuav {
+    background-image: url(./img/desktop/image-from-above.jpg);
+    background-size: cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    padding-top: 0px;
+    padding-left: 20px;
+  }
+  .divpb {
+    background-image: url(./img/desktop/image-pocket-borealis.jpg);
+    background-size: cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    padding-top: 35px;
+    padding-left: 20px;
+  }
+  .divc {
+    background-image: url(./img/desktop/image-curiosity.jpg);
+    background-size: cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    padding-top: 35px;
+    padding-left: 20px;
+  }
+  .divmif {
+    background-image: url(./img/mobile/image-fisheye.jpg);
+    background-size: cover;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    padding-top: 35px;
+    padding-left: 20px;
+  }
+  .disappear {
+    display: block;
+  }
+  .flexx {
+    display: flex;
+    
+  }
+  .a {
+    display: inline;
+  }
+  .anchors{
+    position: relative;
+    top: 60px;
+    right: 350px;
+  }
+  .icondiv{
+    width: 80px;
+    margin-left: 760px;
+  }
+  .icon1 {
+    width: 30px;
+  }
+  .icon2 {
+    width: 30px;
+  }
+  .icon3 {
+    width: 35px;
+    border-radius: 200px;
+  }
+  .icon4 {
+    width: 30px;
+  }
+  .ptag1{
+    margin-left: 740px;
+  }
+  .loop{
+    margin-left: 20px;
+  }
+
+}
